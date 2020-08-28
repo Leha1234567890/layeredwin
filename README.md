@@ -1,3 +1,3 @@
 #layeredwin 
 
-This is hacked version of `Code::Blocks`. Try to find away how to unhack it!
+This is FASM (flat assembler) window application, and that scrollbar is setting the transparency of the window!
